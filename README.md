@@ -1,4 +1,5 @@
 # hello-world
 first repository
 
-console.log('hello world')
+
+var sum = 6
